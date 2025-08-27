@@ -1,8 +1,8 @@
-## Hi there 👋, I'm Lojain
+## 👩‍💻 Lojain Mohamed | AI & ML Enthusiast  
 
-💻 Computer Science Student | AI & ML Enthusiast  
-🌱 Currently learning Deep Learning & Data Science  
-✨ Interested in Machine Learning, Neural Networks & Problem Solving 
+🤖 Passionate about Artificial Intelligence and Machine Learning.  
+🌱 Currently focusing on Deep Learning and Data Science.  
+🚀 Interested in building innovative projects and solving real-world problems with AI.  
 
 ## 🚀 Skills  
 ### 💻 Programming & Scripting  
