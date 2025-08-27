@@ -24,7 +24,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LojainnnMohameddd&layout=compact&theme=radical)  
 
 ## 📫 Connect with me  
-- [LinkedIn](www.linkedin.com/in/lojain-mohamed-798243268)  
+- [LinkedIn](https://www.linkedin.com/in/lojain-mohamed-798243268)
 - [Email](mailto:lojainmohamed795@gmail.com)  
 
   
